@@ -1,4 +1,4 @@
-# Global Array storing word for each digit dk-test
+# Global Array storing word for each digit dk-test11
 arr = ['zero','one','two','three','four','five','six','seven','eight','nine']
  
 def number_2_word(n):
